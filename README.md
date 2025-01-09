@@ -1,0 +1,1 @@
+# binary_x_json_simulated_consumer
